@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FeaturesSliderInApplication</string>
+
+
+    <string name="slide_1_title">Title 1</string>
+    <string name="slide_1_desc">Desc 1</string>
+
+    <string name="slide_2_title">Title 2</string>
+    <string name="slide_2_desc">Desc 2</string>
+
+
+    <string name="slide_3_title">Title 3</string>
+    <string name="slide_3_desc">Desc 3</string>
+
+
+    <string name="slide_4_title">Title 4</string>
+    <string name="slide_4_desc">Desc 4</string>
+
+
+    <string name="my_preferrence">"com.sandilas.com.MyPref"</string>
+    <string name="my_preference_key">"com.abc.com.MyPrefKey"</string>
+</resources>
